@@ -19,4 +19,3 @@ for t in range(int(input())) :
             break
 
     print(f'#{t+1} {result}')
-
